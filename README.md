@@ -7,16 +7,26 @@ Welcome to my GitHub profile! I am a passionate DevOps Engineer in training, cur
 - 📚 **Learning Journey:** Diving deep into infrastructure as code, CI/CD pipelines, and cloud native architectures.
 - ⚡ **Goal:** Building stable, highly scalable, and fully automated deployment workflows.
 
-## 🛠️ Skills & Tools
-- **Operating Systems:** Linux (Ubuntu)
-- **Version Control:** Git, GitHub, GitHub CLI
-- **Scripting & Automation:** Shell Scripting (Bash)
-- **Programming:** Python
+## 🚀 Expertise
+- **CI/CD Pipeline Design & Automation**
+- **Containerization (Docker)**
+- **Linux System Administration**
+- **Git & Version Control**
+- **Shell Scripting & Automation**
+- **Infrastructure Architecture**
+- **Cloud & AI Engineering**
 
-## 📌 Featured Repositories
-- [90DaysOfDevOps](https://github.com) - My daily progress, notes, and scripts for the DevOps challenge.
-- [demo-shell-scripts](https://github.com) - Handy automation and utility scripts.
-- [python-code-library-app](https://github.com) - Microservices project architecture built with Python.
+## 🛠️ Tech Stack
+- **Operating Systems & Infrastructure:** Linux, AWS, Azure, Terraform, Ansible
+- **Containers & Orchestration:** Docker, Kubernetes (K8s), Argo CD
+- **Automation & Scripting:** Shell Scripting (Bash)
+- **CI/CD & Monitoring:** Jenkins/GitHub Actions, Monitering Tools
+
+## 📂 Projects
+- **CI/CD Pipeline Implementations:** Robust automated deployment pipelines.
+- **Dockerized Applications:** Multi-container microservices configurations.
+- **Automation Scripts:** Systems management and infrastructure scaling scripts.
+
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Titas Kundu / www.linkedin.com/in/titas-kundu-ab6a691a4]

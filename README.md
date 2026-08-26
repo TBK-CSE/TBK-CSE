@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Titas! 👋
 
-<!--
-**TBK-CSE/TBK-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate DevOps Engineer in training, currently sharpening my skills and building automated systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 **Current Focus:** Successfully completing the **90 Days of DevOps** challenge!
+- 📚 **Learning Journey:** Diving deep into infrastructure as code, CI/CD pipelines, and cloud native architectures.
+- ⚡ **Goal:** Building stable, highly scalable, and fully automated deployment workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Operating Systems:** Linux (Ubuntu)
+- **Version Control:** Git, GitHub, GitHub CLI
+- **Scripting & Automation:** Shell Scripting (Bash)
+- **Programming:** Python
+
+## 📌 Featured Repositories
+- [90DaysOfDevOps](https://github.com) - My daily progress, notes, and scripts for the DevOps challenge.
+- [demo-shell-scripts](https://github.com) - Handy automation and utility scripts.
+- [python-code-library-app](https://github.com) - Microservices project architecture built with Python.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [Titas Kundu / www.linkedin.com/in/titas-kundu-ab6a691a4]
+- **Email:** [tbkacrbittu@gmail.com]
+
+---
+*“Automating the world, one script at a time.”*
+
